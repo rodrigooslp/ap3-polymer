@@ -1,0 +1,7 @@
+{
+  "name": "ap3",
+  "short_name": "ap3",
+  "description": "Avaliação Prática 3 de Programação em Ambiente Web I",
+  "start_url": "/",
+  "display": "standalone"
+}
